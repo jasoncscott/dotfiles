@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-      <img src="https://img.shields.io/badge/Open%20Source-3DA639?logo=Open%20Source%20Initiative &logoColor=white" />
+      <img src="https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white" />
   </kbd>
 </p>
 <p align="center">
